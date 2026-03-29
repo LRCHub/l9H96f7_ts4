@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "初恋ドア",
+  "base_artist": "坂道AKB",
+  "createdAt": "2026-03-29T15:25:55.163696Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋ドア",
+      "artist": "坂道AKB",
+      "has_synced": false,
+      "path": "select/pl_01_初恋ドア_坂道AKB.txt"
+    }
+  ]
+}
